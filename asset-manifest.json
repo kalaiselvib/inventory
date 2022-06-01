@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kalaiselvib/inventory/static/css/main.5c971c2b.css",
+    "main.js": "/kalaiselvib/inventory/static/js/main.e0455929.js",
+    "static/media/Nunito-Regular.ttf": "/kalaiselvib/inventory/static/media/Nunito-Regular.bedc35fb703c0b2d1fd5.ttf",
+    "static/media/Nunito-SemiBold.ttf": "/kalaiselvib/inventory/static/media/Nunito-SemiBold.35622b703663ab9a0246.ttf",
+    "static/media/Nunito-Bold.ttf": "/kalaiselvib/inventory/static/media/Nunito-Bold.d5395e91ba6695bfdcb3.ttf",
+    "static/media/Nunito-ExtraBold.ttf": "/kalaiselvib/inventory/static/media/Nunito-ExtraBold.7a1db8e31dfc53e9af50.ttf",
+    "static/media/img3.jpg": "/kalaiselvib/inventory/static/media/img3.ef0a3831cf617380fedd.jpg",
+    "static/media/img2.jpg": "/kalaiselvib/inventory/static/media/img2.c195cd8c201d098e7d5e.jpg",
+    "static/media/img1.jpg": "/kalaiselvib/inventory/static/media/img1.20675820c4a9da92a6f6.jpg",
+    "static/media/Logo.png": "/kalaiselvib/inventory/static/media/Logo.2c3fbc6468655673a451.png",
+    "index.html": "/kalaiselvib/inventory/index.html",
+    "main.5c971c2b.css.map": "/kalaiselvib/inventory/static/css/main.5c971c2b.css.map",
+    "main.e0455929.js.map": "/kalaiselvib/inventory/static/js/main.e0455929.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c971c2b.css",
+    "static/js/main.e0455929.js"
+  ]
+}
