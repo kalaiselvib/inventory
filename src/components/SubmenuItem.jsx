@@ -30,19 +30,20 @@ function SubmenuItem({ item, index }) {
           </span>
         </h6>
       </Link>
-
+   {subnav && <div className="submenu-wrapper">
       {subnav &&
         item.subNav.map((item, index) => {
           return (
             <div className="ml-5" key={index}>
               <div key={index} className="submenu-item">
                 <div className="sub-menu-icon mr-1"> {item.icon}</div>
-
                 <h6 className="sub-menu-name pt-1">{item.menuName}</h6>
               </div>
             </div>
           );
         })}
+        </div>       }   
+     
     </>
   );
 }

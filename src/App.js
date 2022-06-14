@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 
 import "./fonts.css";
-import "./App.css";
+import "./App.scss";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import { AiOutlineDashboard } from "react-icons/ai";

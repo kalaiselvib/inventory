@@ -142,6 +142,7 @@ function Customers() {
           </Modal>
         </div>
         <div className="screen-body">
+          <div className="table-responsive">
           <table className="table mb-0">
             <thead>
               <tr>
@@ -171,6 +172,8 @@ function Customers() {
               })}
             </tbody>
           </table>
+          </div>
+         
         </div>
       </div>
     </>
